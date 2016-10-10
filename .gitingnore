@@ -1,0 +1,9 @@
+Thumbs.db
+
+frameworks/
+runtime/
+tools/
+.idea/
+
+.settings/
+.metadata/
